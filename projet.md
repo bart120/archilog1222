@@ -86,13 +86,14 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 Les groupes sont les suivants:
-- 
+- Paul CHESNEAU, Delphine PAIVA, Mathias REINE, Adrien DUCOURTHIAL
+- Ellande VILLEMAIN, Cyrus HUAULT, Alexandre KRAMER, Antoine TACAIL--CASES, Axel LEYDIER
+- Anis SALAH BEY, Linus QUENUM, Océanne PANDORE, Abdelhakim AMYAR
 
 Les horaires de passage des groupes sont les suivants:
-- 14h15 => 
-- 14h45 => 
-- 15h15 => 
-- 15h45 => 
+- 14h15 => Paul CHESNEAU, Delphine PAIVA, Mathias REINE, Adrien DUCOURTHIAL
+- 14h45 => Anis SALAH BEY, Linus QUENUM, Océanne PANDORE, Abdelhakim AMYAR
+- 15h15 => Ellande VILLEMAIN, Cyrus HUAULT, Alexandre KRAMER, Antoine TACAIL--CASES, Axel LEYDIER
 
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
