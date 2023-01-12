@@ -1,0 +1,1 @@
+dotnet-aspnet-codegenerator controller -name TestController -api -m User -dc ArchiDbContext -outDir Controllers
